@@ -24,7 +24,7 @@ $ dotnet restore
 
 - Publish the application to get it ready to push to Cloud Foundry.
 
-Note: Note: we are specifying the runtime by using -r ubuntu.14.04-x64 during our publish command
+Note: we are specifying the runtime by using -r ubuntu.14.04-x64 during our publish command as we will be pushing this application to a Linux cell on Cloud Foundry
 
 ```
 $ dotnet publish --output ./publish --configuration Release --runtime ubuntu.14.04-x64
