@@ -1,0 +1,30 @@
+pasapicella@pas-macbook:~$ http https://dotnet-webapi-abortifacient-clue.pcfbeta.io/api/todo
+HTTP/1.1 200 OK
+Content-Length: 230
+Content-Type: application/json; charset=utf-8
+Date: Mon, 18 Dec 2017 09:01:06 GMT
+Server: Kestrel
+X-Vcap-Request-Id: 0d2e1d27-8a3f-4c08-5fc1-040940aabff0
+
+[
+    {
+        "id": 1,
+        "isComplete": true,
+        "name": "Do the washing"
+    },
+    {
+        "id": 2,
+        "isComplete": true,
+        "name": "Take dog for a walk"
+    },
+    {
+        "id": 3,
+        "isComplete": false,
+        "name": "Buy MSFT stock"
+    },
+    {
+        "id": 4,
+        "isComplete": false,
+        "name": "Watch the AFL grand final replay"
+    }
+]

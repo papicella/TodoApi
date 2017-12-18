@@ -1,0 +1,9 @@
+---
+applications:
+- name: dotnet-webapi
+  memory: 512M
+  instances: 1
+  random-route: true
+  path: ./publish
+  env:
+    ASPNETCORE_ENVIRONMENT: Development

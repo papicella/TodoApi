@@ -1,0 +1,13 @@
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/libhostpolicy.so
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/libhostfxr.so
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.deps.json
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.runtimeconfig.json
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.runtimeconfig.dev.json
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.dll
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.pdb
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.csproj.CoreCompileInputs.cache
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.AssemblyInfoInputs.cache
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.AssemblyInfo.cs
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.dll
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/TodoApi.pdb

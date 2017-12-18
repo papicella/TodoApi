@@ -1,0 +1,10 @@
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/pasapicella/pivotal/software/dotnet/VisualStudioSolutions/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
